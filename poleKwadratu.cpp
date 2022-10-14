@@ -21,5 +21,7 @@ void inputDate(){
 int main() {
 
     inputDate();
+    std::getchar();
+    return 0;
 
 }
